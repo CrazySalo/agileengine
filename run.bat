@@ -1,0 +1,1 @@
+java -jar ae-backend-xml-java-snippets-all-0.0.1.jar ./samples/sample-0-origin.html ./samples/sample-1-evil-gemini.html make-everything-ok-button
